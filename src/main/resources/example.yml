@@ -1,0 +1,33 @@
+#this is a yaml  comment
+
+name: John
+names: # comment
+  - John
+  - Paul
+  - Ringo
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: random house
+
+
+truth: yes
+
+another_truth: true
+
+more_true: true
+false: no # no , false , FALSE
+string_val: "this is it's a quote"
+
+colone_string: "my courses: one two three"
+
+include_new_lines: |
+  asdf qsdfqsdf qsdfsqd
+  qsdfd
+  qsdf sqdfqd qsdf
+
+ignore_new_lines: >
+  this is
+  just one long
+  String 
